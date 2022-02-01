@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfeltrin&layout=compact)](https://github.com/pfeltrin/github-readme-stats) 
 
-![Feltrin GitHub stats](https://github-readme-stats.vercel.app/api?username=feltrin&show_icons=true&theme=github_dark)
+![Feltrin GitHub stats](https://github-readme-stats.vercel.app/api?username=pfeltrin&show_icons=true&theme=github_dark)
 
 ## Tecnologias que eu uso no meu dia!
 
