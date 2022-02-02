@@ -17,11 +17,12 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
 </div>
 
 ![Snake animation](https://github.com/pfeltrin/pfeltrin/blob/output/github-contribution-grid-snake.svg)
 
-### “A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora.” - Provérbio Zen
+#### <em> “A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora.” - Provérbio Zen
 
 </div>
