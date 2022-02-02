@@ -22,6 +22,6 @@
 
 ![Snake animation](https://github.com/pfeltrin/pfeltrin/blob/output/github-contribution-grid-snake.svg)
 
-### “A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora.”
+### “A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora.” - Provérbio Zen
 
 </div>
