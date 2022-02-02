@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pfeltrin07)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pfeltrin)
   
-<a href="https://github.com/pfeltrin">  
+<a href="https://github.com/pfeltrin" target="_blank">  
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfeltrin&layout=compact)](https://github.com/pfeltrin/github-readme-stats" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pfeltrin&show_icons=true&theme=github_dark" />
 
