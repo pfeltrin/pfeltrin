@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+public class Exchange {
+
+    // Definição das variáveis para cotação, IOF e taxa de operação
+    private final double cotacaoDolar = 5.5;
+    private final double iof = 0.0586;  // IOF de 5,86%
+    private final double taxaOperacaoEmPercentual = 1;  // Taxa de operação de 1%
+
+    // Método que realiza o cálculo de conversão
+    public double comprarDolar(double valorReal) {
+        // Converter real para dólar
+        double valorDolar = valorReal / cotacaoDolar;
+        
+        // Aplicar IOF
+        double valorDolarComIOF = valorDolar - (valorDolar * iof);
+        
+        // Aplicar taxa de operação
+        double valorFinalComTaxa = valorDolarComIOF - (valorDolarComIOF * (taxaOperacaoEmPercentual / 100));
+
+        return valorFinalComTaxa;
+    }
+
+    // Método principal para execução do programa
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Solicita o valor em reais ao usuário
+        System.out.print("Digite o valor em reais que deseja converter para dólares: ");
+        double valorReal = scanner.nextDouble();
+
+        // Cria uma instância de Exchange
+        Exchange exchange = new Exchange();
+
+        // Realiza a conversão
+        double valorConvertido = exchange.comprarDolar(valorReal);
+
+        // Exibe o resultado final ao usuário
+        System.out.printf("O valor convertido em dólar é: %.2f%n", valorConvertido);
+
+        scanner.close(); // Fecha o scanner após uso
+    }
+}
