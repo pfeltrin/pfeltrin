@@ -14,7 +14,7 @@ Aprendizado contínuo e prática por meio de cursos e projetos.
 
 ## Sobre mim
 
-Sou Patrick Feltrin, estudante de programação. Atualmente, estou fazendo um curso de Java na Udemy, com foco em desenvolver meus conhecimentos na linguagem e fortalecer minha base em programação.
+Sou Patrick Feltrin, estudante de programação. Atualmente, estou me aprofundando em Java, com foco em desenvolver meus conhecimentos na linguagem e fortalecer minha base em programação.
 
 Meus repositórios registram minha trajetória de aprendizado, com exercícios e projetos de estudo em desenvolvimento web.
 
