@@ -1,20 +1,38 @@
 <div align="center">
-  
-## Olá! Sou o Patrick Feltrin, casado, pai de uma filha linda, e amante das tecnologias 🥰🤙
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pfeltrin)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pfeltrin07)&nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pfeltrin)&nbsp;
 
- <div align="center">
-  <a href="https://github.com/pfeltrin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pfeltrin&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfeltrin&layout=compact&langs_count=7&theme=transparent"/>
+# Patrick Feltrin
+
+**Desenvolvimento web · React · TypeScript · JavaScript**
+
+Interfaces, aplicações web e aprendizado na prática.
+
+[LinkedIn](https://www.linkedin.com/in/pfeltrin) · [Projetos](https://github.com/pfeltrin?tab=repositories)
+
 </div>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-</div>
+---
+
+## Sobre mim
+
+Sou Patrick Feltrin e desenvolvo projetos web com HTML, CSS, JavaScript, React e TypeScript. Meus repositórios reúnem interfaces e ferramentas que transformam ideias em aplicações, com atenção à organização visual e à interação com o usuário.
+
+## Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+## Projetos em destaque
+
+| Projeto | O que você encontra |
+| --- | --- |
+| [Interface do Twitter](https://github.com/pfeltrin/ui-twitter) | Interface em React e TypeScript, com comentários, navegação entre páginas e adaptação para dispositivos móveis. |
+| [Calculadora de Churrasco](https://github.com/pfeltrin/Calculadora-de-Churrasco) | Ferramenta para calcular a quantidade de itens por pessoa e apresentar os resultados. |
+
+[Explore os demais repositórios →](https://github.com/pfeltrin?tab=repositories)
+
+## Contato
+
+Para conversar sobre projetos, tecnologia ou oportunidades, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pfeltrin).
