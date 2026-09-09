@@ -28,12 +28,12 @@ Meus repositórios registram minha trajetória de aprendizado, com exercícios e
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Projetos de estudo
+## Projetos em destaque
 
 | Projeto | O que você encontra |
 | --- | --- |
+| [CentralAutomoveis](https://github.com/pfeltrin/CentralAutomoveis) | Aplicação desktop para cadastro de veículos, controle de estoque, vendas e relatórios, desenvolvida com Electron, Node.js/Express e SQLite. |
 | [Calculadora de Churrasco](https://github.com/pfeltrin/Calculadora-de-Churrasco) | Ferramenta para calcular a quantidade de itens por pessoa e apresentar os resultados. |
-| [Interface do Twitter](https://github.com/pfeltrin/ui-twitter) | Exercício realizado durante uma aula, utilizando React e TypeScript. |
 
 [Explore os demais repositórios →](https://github.com/pfeltrin?tab=repositories)
 
