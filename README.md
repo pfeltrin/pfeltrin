@@ -2,9 +2,9 @@
 
 # Patrick Feltrin
 
-**Desenvolvimento web · React · TypeScript · JavaScript**
+**Estudante de programação · Foco atual em Java**
 
-Interfaces, aplicações web e aprendizado na prática.
+Aprendizado contínuo e prática por meio de cursos e projetos.
 
 [LinkedIn](https://www.linkedin.com/in/pfeltrin) · [Projetos](https://github.com/pfeltrin?tab=repositories)
 
@@ -14,22 +14,26 @@ Interfaces, aplicações web e aprendizado na prática.
 
 ## Sobre mim
 
-Sou Patrick Feltrin e desenvolvo projetos web com HTML, CSS, JavaScript, React e TypeScript. Meus repositórios reúnem interfaces e ferramentas que transformam ideias em aplicações, com atenção à organização visual e à interação com o usuário.
+Sou Patrick Feltrin, estudante de programação. Atualmente, estou fazendo um curso de Java na Udemy, com foco em desenvolver meus conhecimentos na linguagem e fortalecer minha base em programação.
 
-## Tecnologias
+Meus repositórios registram minha trajetória de aprendizado, com exercícios e projetos de estudo em desenvolvimento web.
+
+## Estudos e tecnologias
+
+**Aprendendo atualmente:** Java, por meio de um curso na Udemy.
+
+**Presentes nos meus projetos de estudo:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## Projetos em destaque
+## Projetos de estudo
 
 | Projeto | O que você encontra |
 | --- | --- |
-| [Interface do Twitter](https://github.com/pfeltrin/ui-twitter) | Interface em React e TypeScript, com comentários, navegação entre páginas e adaptação para dispositivos móveis. |
 | [Calculadora de Churrasco](https://github.com/pfeltrin/Calculadora-de-Churrasco) | Ferramenta para calcular a quantidade de itens por pessoa e apresentar os resultados. |
+| [Interface do Twitter](https://github.com/pfeltrin/ui-twitter) | Exercício realizado durante uma aula, utilizando React e TypeScript. |
 
 [Explore os demais repositórios →](https://github.com/pfeltrin?tab=repositories)
 
